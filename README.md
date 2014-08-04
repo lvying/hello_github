@@ -7,3 +7,5 @@ the first repository to introduce the reason why i come to github:
 2. so many genius are on this platform, working with them is a hornor and incentive to me
 3. github will improve our project managent so much, also I am willing to try something new and fun 
 4. this is a proof -- I will do better and make big progress!
+
+I am a PhD student in virtualization. I contact this konwledge just now, I wonder study from every genius.
